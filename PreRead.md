@@ -21,3 +21,15 @@ Solid principles in software development are essential for several reasons:
 10. **Quality Assurance:** Solid principles contribute to higher-quality software. When your codebase is well-structured and adheres to these principles, it's less likely to contain hidden defects, security vulnerabilities, or performance bottlenecks.
 
 In summary, Solid principles are a set of best practices that lead to more maintainable, scalable, and reliable software. They enhance code quality, reduce the cost of development and maintenance, and ultimately contribute to the success of software projects.
+
+**Certainly! The SOLID principles are a set of five design principles for writing maintainable and scalable software. They were introduced by Robert C. Martin and are widely used in object-oriented programming.**
+
+<b>SOLID is a set of princliples
+S - Single Responsibility Principle (SRP) <br/>
+O - Open/Closed Principle (OCP) <br />
+L- Liskov Substitution Principle (LSP) <br/>
+I - Interface Segregation Principle(ISP)<br/>
+D - Dependency Inversion Principle<br/>
+</b>
+
+**Let's start by introducing each principle and then provide real-time examples for each one.**
