@@ -24,12 +24,15 @@ In summary, Solid principles are a set of best practices that lead to more maint
 
 **Certainly! The SOLID principles are a set of five design principles for writing maintainable and scalable software. They were introduced by Robert C. Martin and are widely used in object-oriented programming.**
 
+<pre>:
 <b>SOLID is a set of princliples<br/>
-&nbsp &nbsp &nbsp &nbsp S - Single Responsibility Principle (SRP) <br/>
-O - Open/Closed Principle (OCP) <br />
-L- Liskov Substitution Principle (LSP) <br/>
-I - Interface Segregation Principle(ISP)<br/>
-D - Dependency Inversion Principle<br/>
+        S - Single Responsibility Principle (SRP) <br/>
+        O - Open/Closed Principle (OCP) <br />
+        L- Liskov Substitution Principle (LSP) <br/>
+        I - Interface Segregation Principle(ISP)<br/>
+        D - Dependency Inversion Principle<br/>
 </b>
+
+</pre>
 
 **Let's start by introducing each principle and then provide real-time examples for each one.**
